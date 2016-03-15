@@ -19,12 +19,12 @@ a key.  The API key is free to use for up to 100 requests per day.
 Once you have that taken care of, you can install the plugin itself by putting it your wp-content/plugins folder.  Turn it on
 in your Wordpress admin panel and then drop it wherever you like in the widgets panel.  You'll then be asked to configure it.
 
-**Title:** The title displayed for the widget.
-**Search Terms:** The search query you want to retrieve a random image for.
-**Max Offset:** The size of the pool of images the random image will be selected from.  Bigger means more variety,
++ **Title:** The title displayed for the widget.
++ **Search Terms:** The search query you want to retrieve a random image for.
++ **Max Offset:** The size of the pool of images the random image will be selected from.  Bigger means more variety,
 smaller means a more precise pool.  Max is 100.
-**Google API Key:** The API Key you registered on the Google Developer Console
-**Custom Search ID:** The ID for the Google Custom Search you created.
++ **Google API Key:** The API Key you registered on the Google Developer Console
++ **Custom Search ID:** The ID for the Google Custom Search you created.
 
 That's about it.  The widget should now be firing off on your wordpress.
 
